@@ -1,0 +1,32 @@
+{
+  "optimal_reserve_mix": {
+    "cash": 0.006131020504543033,
+    "mmf": 0.2076026902864767,
+    "repo": 0.12650875720147134,
+    "tbills": 0.603248398396302,
+    "deposits": 0.05650913361120691,
+    "lambda": 0.3402424679924911,
+    "tier2": 0.6597575320075089
+  },
+  "optimal_policy": {
+    "lcr_floor": 1.0,
+    "psm_size_pct": 0.0,
+    "disclosure_freq_hours": 48,
+    "redemption_fee_bps": 0.0,
+    "redemption_window_hours": 0.0,
+    "annual_cost_bps": 3.0
+  },
+  "performance": {
+    "portfolio_yield_bps": 491.3249659820413,
+    "target_yield_bps": 450,
+    "yield_gap_bps": 41.324965982041306,
+    "max_run_probability": 0.0,
+    "max_expected_loss_pct": 0.0,
+    "VaR_95_bps": 0.0,
+    "VaR_99_bps": 0.0,
+    "ES_95_bps": 0.0,
+    "ES_99_bps": 0.0
+  },
+  "worst_case_scenario": {},
+  "objective_value": 0.03
+}
