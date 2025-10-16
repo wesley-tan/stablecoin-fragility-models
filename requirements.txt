@@ -1,0 +1,12 @@
+# Stablecoin Robust Fragility Research
+# Python Dependencies
+
+# Core numerical computing
+numpy>=1.24.0
+
+# Optional: For enhanced analysis and visualization
+# matplotlib>=3.7.0  # Uncomment for plotting
+# pandas>=2.0.0      # Uncomment for data manipulation
+# scipy>=1.10.0      # Uncomment for additional numerical methods
+
+
